@@ -1,4 +1,4 @@
-This is the classic card game war.
+This is the classic card game war. https://summer-projects.github.io/War-Card-Game-/.
 
 The goal is to be the first player to win all 52 cards
 
